@@ -31,6 +31,7 @@ export const Body = () => {
       </section>
 
       <aside>
+        <div className="asidee">
         <h1>Technologies Used</h1>
         <ul>
           <li>React</li>
@@ -43,6 +44,7 @@ export const Body = () => {
           <li>Node.js</li>
           <li>bootstrap</li>
         </ul>
+        </div>
       </aside>
     </div>
   );
