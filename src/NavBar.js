@@ -1,17 +1,19 @@
-import React from 'react'
+import React from "react";
 
 export const NavBar = () => {
   return (
     <header>
-      <nav> 
+      <nav>
         <span>Professional Developer Portfolio</span>
-        <p>Hi! My name is Ricardo Ivan Ortega Ruiz <br/> and I am Full Stack Developer!</p>
-
-
-
       </nav>
+      <div className="meeting">
+        <p>
+          Hi! My name is Ricardo Ivan Ortega Ruiz <br /> and I am Full Stack
+          Developer!
+        </p>
+      </div>
     </header>
-    
-)}
+  );
+};
 
 export default NavBar;

@@ -11,3 +11,73 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.meeting {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./Imagenes/portforlioimage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  color: azure;
+  font-size: 25px;
+  font-family: fantasy;
+
+}
+
+.body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logoUcamp{
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: green;
+  font-weight: bold;
+  
+}
+
+.logoMongo{
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: rgb(41, 1, 73);
+  font-weight: bold;
+ 
+}
+
+.imagenesHerramientas{
+  display: flex;
+  flex-direction: row;
+  height: 220px;
+  width: 100%;
+   border: 2px solid;
+}
+
+.imagenesHerramientas2{
+  display: flex;
+  flex-direction: row;
+  height: 220px;
+  width: 100%;
+  border: 2px solid;
+}
