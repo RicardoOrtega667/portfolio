@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RicardoOrtega667/portfolio/static/css/main.98c4d159.css",
-    "main.js": "/RicardoOrtega667/portfolio/static/js/main.baf083da.js",
-    "static/js/787.1ed0c42c.chunk.js": "/RicardoOrtega667/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/portforlioimage.jpg": "/RicardoOrtega667/portfolio/static/media/portforlioimage.23063b4b35b80a3a9de4.jpg",
-    "static/media/logoReact.jpg": "/RicardoOrtega667/portfolio/static/media/logoReact.4604254bca9dec726635.jpg",
-    "static/media/desarrollo.jpg": "/RicardoOrtega667/portfolio/static/media/desarrollo.a5337abf8961a935b8d3.jpg",
-    "static/media/mongoDB2.jpg": "/RicardoOrtega667/portfolio/static/media/mongoDB2.f9efb4cf07a7dc8a900d.jpg",
-    "static/media/logoUcamp.jpg": "/RicardoOrtega667/portfolio/static/media/logoUcamp.f0b5273154d492248ed5.jpg",
-    "index.html": "/RicardoOrtega667/portfolio/index.html",
-    "main.98c4d159.css.map": "/RicardoOrtega667/portfolio/static/css/main.98c4d159.css.map",
-    "main.baf083da.js.map": "/RicardoOrtega667/portfolio/static/js/main.baf083da.js.map",
-    "787.1ed0c42c.chunk.js.map": "/RicardoOrtega667/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/RicardoOrtega667/portfolio.io/static/css/main.09c8d0a3.css",
+    "main.js": "/RicardoOrtega667/portfolio.io/static/js/main.3ca7f093.js",
+    "static/js/787.1ed0c42c.chunk.js": "/RicardoOrtega667/portfolio.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portforlioimage.jpg": "/RicardoOrtega667/portfolio.io/static/media/portforlioimage.23063b4b35b80a3a9de4.jpg",
+    "static/media/logoReact.jpg": "/RicardoOrtega667/portfolio.io/static/media/logoReact.4604254bca9dec726635.jpg",
+    "static/media/desarrollo.jpg": "/RicardoOrtega667/portfolio.io/static/media/desarrollo.a5337abf8961a935b8d3.jpg",
+    "static/media/mongoDB2.jpg": "/RicardoOrtega667/portfolio.io/static/media/mongoDB2.f9efb4cf07a7dc8a900d.jpg",
+    "static/media/logoUcamp.jpg": "/RicardoOrtega667/portfolio.io/static/media/logoUcamp.f0b5273154d492248ed5.jpg",
+    "index.html": "/RicardoOrtega667/portfolio.io/index.html",
+    "main.09c8d0a3.css.map": "/RicardoOrtega667/portfolio.io/static/css/main.09c8d0a3.css.map",
+    "main.3ca7f093.js.map": "/RicardoOrtega667/portfolio.io/static/js/main.3ca7f093.js.map",
+    "787.1ed0c42c.chunk.js.map": "/RicardoOrtega667/portfolio.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c4d159.css",
-    "static/js/main.baf083da.js"
+    "static/css/main.09c8d0a3.css",
+    "static/js/main.3ca7f093.js"
   ]
 }
