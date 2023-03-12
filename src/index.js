@@ -15,7 +15,7 @@ root.render(
     <About />
     <Body />
     <Projects />
-     <Footer />
+    <Footer />
   </React.StrictMode>
 );
 
